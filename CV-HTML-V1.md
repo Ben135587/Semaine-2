@@ -6,13 +6,14 @@
         BAC +5 DEA Mathématiques et calcul scientifique
     </main>
     <ul>
-        <li> management d'equipes de 20 à 100 hommes </li>
+        <li> management d'équipes de 20 à 100 hommes </li>
         <li> adjoint au chef de projet logistique </li>
-        <li> adjoint au chef de projet operation </li>
+        <li> adjoint au chef de projet opération </li>
         <li> directeur de centre de foramtion </li>
     </ul>
     <footer>
-        bellet.benoit@gmail.com
+        mail : bellet.benoit@gmail.com
+        cell : +33 6 34 07 31 15
     </footer>
 
             
