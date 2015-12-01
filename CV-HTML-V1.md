@@ -3,7 +3,7 @@
     <header> BELLET Benoit - Codeur informatique </header>
     <main>
         BAC 18 ans dans le management de 30 à 350 collaborateurs
-        BAC +5 DEA Mathematqiues et calcul scientifique
+        BAC +5 DEA Mathématiques et calcul scientifique
     </main>
     <ul>
         <li> management d'equipes de 20 à 100 hommes </li>
