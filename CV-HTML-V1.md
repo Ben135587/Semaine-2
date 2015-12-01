@@ -1,5 +1,7 @@
+<!DOCTYPE html>
+<html>
     <header>
         <h1> BELLET Benoit </h1>
-        <h2> codeur informatique </h2>
-    </header>
-    
+        <h2> Codeur informatique </h2>
+    </header>  
+</html>
