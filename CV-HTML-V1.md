@@ -20,16 +20,13 @@
             <li> 2015 WebOgreen = Ecole de codeur de Bras-sur-Meuse</li>
             <li> Anglais : niveau intermédiaire</li>
         </ul>
-    
-        <footer>
-            <h5>Coordonnées</h5>
-            <ul>
-                <li> mail : bellet.benoit@gmail.com </li>
-                <li> cell : +33 6 34 07 31 15 </li>
-            </ul>
-        </footer>
-    </main>
-    
-    
-    
+     </main>
+    <footer>
+        <h5>Coordonnées</h5>
+        <ul>
+            <li> mail : bellet.benoit@gmail.com </li>
+            <li> cell : +33 6 34 07 31 15 </li>
+        </ul>
+    </footer>
+   
 </html>
