@@ -19,11 +19,9 @@
             <li> 2010 Diplome Etat-major</li>
             <li> 2015 WebOgreen = Ecole de codeur de Bras-sur-Meuse</li>
             <li> Anglais : niveau intermédiaire</li>
+        </ul>
     </main>
     
-    <ul>
-        
-    </ul>
     
     <footer>
         <h5>Coordonnées</h5>
