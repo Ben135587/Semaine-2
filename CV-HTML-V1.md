@@ -1,6 +1,9 @@
 <DOCTYPE html>
 <html>
-    <header> BELLET Benoit - Codeur informatique </header>
+    <header> 
+        <h1>BELLET Benoit</h1>
+        <h2> - Codeur informatique - </h2>
+    </header>
     <main>
         <p> 18 ans dans le management de 30 à 350 collaborateurs </p>
         <p> BAC +5 DEA Mathématiques et calcul scientifique</p>
