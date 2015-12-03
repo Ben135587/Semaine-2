@@ -13,21 +13,23 @@
             <li> 2011 _ adjoint au chef de projet opération </li>
             <li> 2013 _ directeur de centre de formation </li>
         </ul>
-        <h5>FORMATION <h5>
+        <h5>FORMATION</h5>
         <ul>
             <li> 1996 BAC +5 DEA Mathématiques et calcul scientifique</li>
             <li> 2010 Diplome Etat-major</li>
             <li> 2015 WebOgreen = Ecole de codeur de Bras-sur-Meuse</li>
             <li> Anglais : niveau intermédiaire</li>
         </ul>
+    
+        <footer>
+            <h5>Coordonnées</h5>
+            <ul>
+                <li> mail : bellet.benoit@gmail.com </li>
+                <li> cell : +33 6 34 07 31 15 </li>
+            </ul>
+        </footer>
     </main>
     
     
-    <footer>
-        <h5>Coordonnées</h5>
-        <ul>
-            <li> mail : bellet.benoit@gmail.com </li>
-            <li> cell : +33 6 34 07 31 15 </li>
-        </ul>
-    </footer>
+    
 </html>
