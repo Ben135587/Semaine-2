@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
     <header> BELLET Benoit - Codeur informatique </header>
     <main>
