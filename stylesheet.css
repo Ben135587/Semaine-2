@@ -3,7 +3,7 @@ body {
 }
 
 header {
-    color: white;
+    color: red;
     font-family: Courier ;
     background-color: blue;
 }
@@ -15,4 +15,6 @@ li {
 
 div {
     font-family : Tahoma;
+    background-color: blue;
+    
 }
