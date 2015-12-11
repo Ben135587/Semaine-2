@@ -1,5 +1,5 @@
 body {
-    background-color : blue;
+    background-color : gray;
 }
 
 header {
@@ -16,5 +16,6 @@ li {
 div {
     font-family : Tahoma;
     background-color: blue;
+    
     
 }
