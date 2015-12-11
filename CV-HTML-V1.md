@@ -2,12 +2,13 @@
 <html>
     <head>
         <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
-        <title>CV mise à jour en apprenant le code HTML et CSS</title>
     </head>
     <body>
     <header> 
-        <h1>BELLET Benoît</h1>
-        <h2> - Codeur informatique - </h2>
+        <div>
+            <h1>BELLET Benoît</h1>
+            <h2> - Codeur informatique - </h2>
+        </div>
     </header>
     <main>
         <h5>EXPERIENCES PROFESSIONNELLES</h5>
