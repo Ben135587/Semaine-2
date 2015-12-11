@@ -1,13 +1,15 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html>
-    <header> 
+    <head>
         <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
         <title>CV mise à jour en apprenant le code HTML et CSS</title>
-    </header>
-    <main>
+    </head>
+    <header> 
         <h1>BELLET Benoît</h1>
         <h2> - Codeur informatique - </h2>
-        <h5>EXPERIENCES PROFESSIONNELLES</h5>
+    </header>
+    <main>
+                <h5>EXPERIENCES PROFESSIONNELLES</h5>
         <p> 18 ans dans le management de 30 à 350 collaborateurs</p>
         <ul>
             <li> 1997-2007 _ management d'équipes de 20 à 100 hommes </li>
