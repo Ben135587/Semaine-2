@@ -1,7 +1,12 @@
-main {
+body {
     background-color : blue;
 }
 
+h1 {
+    color: white;
+    font-family: Courier ;
+    background-color: blue;
+}
 li {
     color : white;
 }
