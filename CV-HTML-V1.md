@@ -4,12 +4,13 @@
         <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
         <title>CV mise à jour en apprenant le code HTML et CSS</title>
     </head>
+    <body>
     <header> 
         <h1>BELLET Benoît</h1>
         <h2> - Codeur informatique - </h2>
     </header>
     <main>
-                <h5>EXPERIENCES PROFESSIONNELLES</h5>
+        <h5>EXPERIENCES PROFESSIONNELLES</h5>
         <p> 18 ans dans le management de 30 à 350 collaborateurs</p>
         <ul>
             <li> 1997-2007 _ management d'équipes de 20 à 100 hommes </li>
@@ -32,5 +33,5 @@
             <li> cell : +33 6 34 07 31 15 </li>
         </ul>
     </footer>
-   
+   </body>
 </html>
