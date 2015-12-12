@@ -12,7 +12,6 @@ li {
     color: white;
     list-style-type: lower-roman;
 }
-
 div {
     font-family : Tahoma;
     background-color: blue;
